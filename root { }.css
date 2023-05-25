@@ -1,0 +1,14 @@
+root { }
+root { --branco-principal: }
+root { --branco-principal: #FFFFFF; }
+--cinza-secundario
+--cinza-secundario #C0C0C0;
+--botao-azul:
+--botao-azul: #167BF7;
+-- cor-de-fundo:
+--cor-de-fundo: #00030C;
+body { }
+body { background-color: var(--cor-de-fundo); }
+<body> <h1></h1>
+color: var(--branco-principal);
+* { margin: 0; padding: 0; }
